@@ -1,0 +1,33 @@
+{
+  "name": "platzigram-db",
+  "version": "1.0.0",
+  "description": "Platzigram Database Client",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint && ava"
+  },
+  "standard": {
+    "parser": "babel-eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillermoRivera/platzigram-guille-db.git"
+  },
+  "author": "Juan Guillermo Rivera <guillerivera32@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuillermoRivera/platzigram-db/issues"
+  },
+  "homepage": "https://github.com/GuillermoRivera/platzigram-db#readme",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "babel-eslint": "^7.1.1",
+    "standard": "^9.0.1"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "co": "^4.6.0",
+    "rethinkdb": "^2.3.3"
+  }
+}
