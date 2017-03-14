@@ -180,3 +180,55 @@
 2017-03-13T23:13:02.605815085 960.204992s info: Table 70b8676a-5f26-4f4a-b5e4-3b79f10c6125: Deleted the table.
 2017-03-13T23:13:02.739031176 960.338209s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/cb688749-453d-4ce1-8631-188166aa7e4e
 2017-03-13T23:13:02.739047889 960.338225s info: Table cb688749-453d-4ce1-8631-188166aa7e4e: Deleted the table.
+2017-03-14T08:19:44.642861581 1.622151s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-03-14T08:19:44.664538576 1.643834s notice: Running on Linux 4.4.0-62-generic x86_64
+2017-03-14T08:19:44.664706823 1.643996s notice: Loading data from directory /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data
+2017-03-14T08:19:44.998453119 1.977743s info: Automatically using cache size of 4249 MB
+2017-03-14T08:19:45.001326164 1.980616s notice: Listening for intracluster connections on port 29015
+2017-03-14T08:19:45.040941088 2.020231s notice: Listening for client driver connections on port 28015
+2017-03-14T08:19:45.041386459 2.020676s notice: Listening for administrative HTTP connections on port 8080
+2017-03-14T08:19:45.041388932 2.020678s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-03-14T08:19:45.041395085 2.020684s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-03-14T08:19:45.041397259 2.020686s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-03-14T08:19:45.041408426 2.020698s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-03-14T08:19:45.041419871 2.020709s notice: Server ready, "guillermo_lv4" 693c77cd-6d60-4458-858f-4e619fe6a78b
+2017-03-14T08:19:55.008428251 11.987718s info: Table 6f3e5636-2b66-4fe0-b6c9-d30ad479e894: Starting a new Raft election for term 1.
+2017-03-14T08:19:55.010130612 11.989421s info: Table 6f3e5636-2b66-4fe0-b6c9-d30ad479e894: Added replica on this server.
+2017-03-14T08:19:55.103699025 12.082989s info: Table 6f3e5636-2b66-4fe0-b6c9-d30ad479e894: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:19:56.797762798 13.777053s info: Table 8f431696-bf5d-4239-bb1e-3b43931d661a: Starting a new Raft election for term 1.
+2017-03-14T08:19:56.798282124 13.777572s info: Table 8f431696-bf5d-4239-bb1e-3b43931d661a: Added replica on this server.
+2017-03-14T08:19:56.856896266 13.836186s info: Table 8f431696-bf5d-4239-bb1e-3b43931d661a: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:19:57.961585445 14.940875s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/6f3e5636-2b66-4fe0-b6c9-d30ad479e894
+2017-03-14T08:19:57.961604107 14.940893s info: Table 6f3e5636-2b66-4fe0-b6c9-d30ad479e894: Deleted the table.
+2017-03-14T08:19:58.025932552 15.005223s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/8f431696-bf5d-4239-bb1e-3b43931d661a
+2017-03-14T08:19:58.025950782 15.005240s info: Table 8f431696-bf5d-4239-bb1e-3b43931d661a: Deleted the table.
+2017-03-14T08:23:46.055146144 243.034436s info: Table f905391e-b9bb-438b-b246-7f93b4b2a58f: Starting a new Raft election for term 1.
+2017-03-14T08:23:46.055418733 243.034708s info: Table f905391e-b9bb-438b-b246-7f93b4b2a58f: Added replica on this server.
+2017-03-14T08:23:46.113223999 243.092514s info: Table f905391e-b9bb-438b-b246-7f93b4b2a58f: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:23:47.625342186 244.604632s info: Table 43c71ed0-b7a0-4b63-900f-b1070f708b2f: Starting a new Raft election for term 1.
+2017-03-14T08:23:47.625810550 244.605100s info: Table 43c71ed0-b7a0-4b63-900f-b1070f708b2f: Added replica on this server.
+2017-03-14T08:23:47.688884056 244.668174s info: Table 43c71ed0-b7a0-4b63-900f-b1070f708b2f: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:23:49.005772808 245.985063s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/43c71ed0-b7a0-4b63-900f-b1070f708b2f
+2017-03-14T08:23:49.005785700 245.985075s info: Table 43c71ed0-b7a0-4b63-900f-b1070f708b2f: Deleted the table.
+2017-03-14T08:23:49.079779789 246.059070s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/f905391e-b9bb-438b-b246-7f93b4b2a58f
+2017-03-14T08:23:49.079798108 246.059088s info: Table f905391e-b9bb-438b-b246-7f93b4b2a58f: Deleted the table.
+2017-03-14T08:35:24.300115822 941.279419s info: Table 43c186b0-1c70-4126-bab6-d1a00595967e: Starting a new Raft election for term 1.
+2017-03-14T08:35:24.300509458 941.279799s info: Table 43c186b0-1c70-4126-bab6-d1a00595967e: Added replica on this server.
+2017-03-14T08:35:24.363949365 941.343239s info: Table 43c186b0-1c70-4126-bab6-d1a00595967e: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:35:25.793232453 942.772523s info: Table 6a042469-884b-4cb5-a4ca-2d83e30f9e72: Starting a new Raft election for term 1.
+2017-03-14T08:35:25.793478461 942.772768s info: Table 6a042469-884b-4cb5-a4ca-2d83e30f9e72: Added replica on this server.
+2017-03-14T08:35:25.850732437 942.830023s info: Table 6a042469-884b-4cb5-a4ca-2d83e30f9e72: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:35:27.167619779 944.146910s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/43c186b0-1c70-4126-bab6-d1a00595967e
+2017-03-14T08:35:27.167638262 944.146928s info: Table 43c186b0-1c70-4126-bab6-d1a00595967e: Deleted the table.
+2017-03-14T08:35:27.230932526 944.210223s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/6a042469-884b-4cb5-a4ca-2d83e30f9e72
+2017-03-14T08:35:27.230949725 944.210239s info: Table 6a042469-884b-4cb5-a4ca-2d83e30f9e72: Deleted the table.
+2017-03-14T08:35:50.579604333 967.558894s info: Table b83eb4cf-e0d1-410c-a340-95799dd78c80: Starting a new Raft election for term 1.
+2017-03-14T08:35:50.579962491 967.559252s info: Table b83eb4cf-e0d1-410c-a340-95799dd78c80: Added replica on this server.
+2017-03-14T08:35:50.715141335 967.694432s info: Table b83eb4cf-e0d1-410c-a340-95799dd78c80: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:35:52.059898514 969.039189s info: Table dce0b4f7-f3d8-4d38-a8f8-08adda2742cc: Starting a new Raft election for term 1.
+2017-03-14T08:35:52.060416293 969.039706s info: Table dce0b4f7-f3d8-4d38-a8f8-08adda2742cc: Added replica on this server.
+2017-03-14T08:35:52.124444845 969.103735s info: Table dce0b4f7-f3d8-4d38-a8f8-08adda2742cc: This server is Raft leader for term 1. Latest log index is 0.
+2017-03-14T08:35:53.455979114 970.435269s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/b83eb4cf-e0d1-410c-a340-95799dd78c80
+2017-03-14T08:35:53.455993222 970.435283s info: Table b83eb4cf-e0d1-410c-a340-95799dd78c80: Deleted the table.
+2017-03-14T08:35:53.525629481 970.504919s notice: Removing file /home/guillermo/Desktop/workspace/platzi/JS/platzigram-db/rethinkdb_data/dce0b4f7-f3d8-4d38-a8f8-08adda2742cc
+2017-03-14T08:35:53.525648052 970.504937s info: Table dce0b4f7-f3d8-4d38-a8f8-08adda2742cc: Deleted the table.
